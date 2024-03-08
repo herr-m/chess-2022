@@ -1,7 +1,7 @@
 # Chess
-A chess game implementation in Java, with a command line inferface.
+A chess game implementation in Java, with a command line inferface and MVC design pattern.
 
-Demo:
+## Demo
 ```
   ------------------------
 8 |TN|CN|FN|#N|*N|FN|CN|TN|
